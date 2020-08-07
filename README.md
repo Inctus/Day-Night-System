@@ -7,3 +7,13 @@ The code is a dynamic day/night system that is built on top of the default ROBLO
 It gives you **much more control** over how you want your day and night to appear in a game. 
 
 I have uploaded the source code as **Source.lua** and the assosciated effects into **DayNightFX.rbxm**. 
+
+Mess around with the following variables and create your own unique effects!
+
+```lua
+local EffectSerialised = {
+}
+
+local LightingSerialised = {
+}
+```
